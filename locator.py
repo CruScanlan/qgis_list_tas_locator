@@ -192,8 +192,8 @@ class ListTasFilter(QgsLocatorFilter):
             QgsProject.instance().crs(),
             QColor(255, 220, 0, 255),   # start: bright yellow
             QColor(255, 220, 0, 0),     # end: transparent
-            flashes=2,
-            duration=400,
+            flashes=3,
+            duration=600,
         )
 
 
