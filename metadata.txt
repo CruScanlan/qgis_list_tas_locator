@@ -1,0 +1,9 @@
+[general]
+name=LIST Tasmania Locator
+qgisMinimumVersion=4.0
+description=Search Tasmanian place names via the LIST SearchService
+version=0.1
+author=Cru
+email=none
+about=Adds a 'tas' locator prefix that queries the LIST Tasmania Named Features layer (Public/SearchService/MapServer/0) and zooms to the result.
+category=Plugins
